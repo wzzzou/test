@@ -1,0 +1,8 @@
+# Compiled C++ files
+*.o
+*.out
+*.exe
+*.dll
+*.so
+```IDE specific files (example for VS Code)
+.vscode/
